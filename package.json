@@ -8,7 +8,7 @@
   },
   "keywords": [],
   "dependencies": {
-    "internal-lib-t1": "^1.0.4"
+    "lodash": "^1.0.0"
    },
   "author": "",
   "license": "ISC"
